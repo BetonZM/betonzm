@@ -2,7 +2,7 @@
 
 **`Full-Stack Dev`**
 
-I'm an full-stack developer who likes to start from scratch. I love to take start new projects with new frameworks just to later hate myself and return to Nuxt/Vue. Sometimes I contribute to open source projects... 
+I love to take start new projects with new frameworks just to later hate myself and return to Nuxt/Vue. Sometimes I contribute to open source projects... 
 
 
 ---
