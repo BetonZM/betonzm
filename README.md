@@ -5,6 +5,9 @@
 I love to take start new projects with new frameworks just to later hate myself and return to Nuxt/Vue. Sometimes I contribute to open source projects... 
 
 
+Currently working via [Proxify.io](https://career.proxify.io/apply?referrer_id=806fc2bd)
+
+
 ---
 
 ### 🧰 Languages and Tools
