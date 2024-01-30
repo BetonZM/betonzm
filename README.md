@@ -26,7 +26,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-or
 
 ### 🔥 Live Projects 
 
- - [9bit.club](https://9bit.club) - NFT community project
  - [Mffn](https://mffn.io/) - App for F&B businesses to digitize and automate
  - [Optibar](https://optibar.si/) - B2B shop for F&B  industry
  - [Idoru](https://app.idoru.capital/) - Web3 Finance website
