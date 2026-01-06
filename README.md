@@ -1,11 +1,13 @@
-#  👋 About me
+👋 About me
 
-**`Full-Stack Dev`**
+**`Full-Stack Engineer`** · **`Open-Source`** · **`Self-Hosted`** · **`Scalable`**
 
-I love to take start new projects with new frameworks just to later hate myself and return to Nuxt/Vue. Sometimes I contribute to open source projects... 
+I’m an agentic full-stack engineer who builds production systems from scratch — frontend, backend, infrastructure, and deployment. I enjoy owning the entire lifecycle: architecture decisions, clean code, CI/CD, and keeping systems reliable in production.
 
+I’m a tinkerer by nature: I experiment with new tools to understand them deeply, then apply what actually works. I prefer open-source and self-hosted solutions, avoid vendor lock-ins, and optimize for long-term maintainability over short-term hacks. When something breaks, I debug it until I understand why — and then make sure it doesn’t break again.
 
 ---
+
 
 ### 🧰 Languages and Tools
 
@@ -22,10 +24,14 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-or
 <br />
 
 ### 🔥 Live Projects 
-
+ - [XXtract](https://xxtract.com) - SaaS for smart labeling
  - [Mffn](https://mffn.io/) - App for F&B businesses to digitize and automate
  - [Optibar](https://optibar.si/) - B2B shop for F&B  industry
  - [Idoru](https://app.idoru.capital/) - Web3 Finance website
  - [Wirecompare](https://wirecompare.com/) - Search engine for money transfer 
  - [Coggstudios](https://coggstudios.com/) - Revenue Games
  - [RadarAlarm](https://play.google.com/store/apps/details?id=si.topapp.radaralarm) - Android traffic app
+
+### 🚧 In development (Coming soon)
+ - [Ellie-fun](https://ellie-fun.com) - AI Tutoring for students
+ - [Speakchamp](https://speakchamp.app) - Toast master club management 
