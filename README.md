@@ -1,15 +1,17 @@
 👋 About me
 
-**`Full-Stack Engineer`** · **`Open-Source`** · **`Self-Hosted`** · **`Scalable`**
+**`Senior Software Engineer`** · **`Platform & Security-minded`** · **`Open-Source`** · **`Self-Hosted`**
 
-I’m an agentic full-stack engineer who builds production systems from scratch — frontend, backend, infrastructure, and deployment. I enjoy owning the entire lifecycle: architecture decisions, clean code, CI/CD, and keeping systems reliable in production.
+I’m used to wearing multiple hats in small, fast-moving teams: making architecture decisions, writing clean and maintainable code, setting up reliable delivery pipelines, and taking responsibility for systems in production. I care about operational stability, security-conscious design, and reducing long-term complexity.
 
-I’m a tinkerer by nature: I experiment with new tools to understand them deeply, then apply what actually works. I prefer open-source and self-hosted solutions, avoid vendor lock-ins, and optimize for long-term maintainability over short-term hacks. When something breaks, I debug it until I understand why — and then make sure it doesn’t break again.
+By nature, I’m a tinkerer: I experiment with tools to understand their trade-offs deeply, then apply what actually works in real-world systems. I favor open-source and self-hosted solutions where appropriate, avoid unnecessary vendor lock-in, and optimize for long-term maintainability over short-term wins. When something breaks, I dig until I understand why — and then design it so it’s less likely to break again.
 
 ---
 
-
 ### 🧰 Languages and Tools
+
+Tools change — principles don’t.
+I focus on system design, ownership, and outcomes rather than specific stacks.
 
 <img align="left" alt="Vue" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
 <img align="left" alt="Nuxt" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" />
@@ -35,3 +37,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-or
 ### 🚧 In development (Coming soon)
  - [Ellie-fun](https://ellie-fun.com) - AI Tutoring for students
  - [Speakchamp](https://speakchamp.app) - Toast master club management 
+
+💬 I enjoy working in environments where engineers are trusted to own problems end-to-end,
+make trade-offs, and improve systems over time.
